@@ -22,8 +22,7 @@ Currently at **Thales Group**, building a Python automation platform that genera
 
 **Projects**
 
-[social-platform-microservices](https://github.com/Skynanduil/social-platform-microservices) — Event-driven social platform built with Java 11, Spring Boot, Kafka, and PostgreSQL. Each service owns its own database; post creation events fan out to a notifications service via Kafka.
-
+TODO
 ---
 
 **Find me**
